@@ -25,7 +25,6 @@ header ul li {
     font-size: 18px;
     padding:  10px 15px;
     color: #d23423;
-    border-bottom: 1px solid #d23423;
     transition: .5s;
 }
 header ul li:hover {
